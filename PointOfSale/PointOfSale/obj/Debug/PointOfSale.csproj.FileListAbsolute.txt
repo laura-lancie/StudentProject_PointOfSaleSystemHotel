@@ -1,0 +1,32 @@
+c:\users\laura\documents\visual studio 2017\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+c:\users\laura\documents\visual studio 2017\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+c:\users\laura\documents\visual studio 2017\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+c:\users\laura\documents\visual studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csprojResolveAssemblyReference.cache
+c:\users\laura\documents\visual studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.LoginForm.resources
+c:\users\laura\documents\visual studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+c:\users\laura\documents\visual studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.Cache
+c:\users\laura\documents\visual studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+c:\users\laura\documents\visual studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
+C:\Users\laura\Documents\Visual Studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Main.resources
+H:\Visual Studio 2017\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+H:\Visual Studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+H:\Visual Studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
+H:\Visual Studio 2017\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+H:\Visual Studio 2017\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+H:\Visual Studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.LoginForm.resources
+H:\Visual Studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Main.resources
+H:\Visual Studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+H:\Visual Studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.Cache
+H:\Visual Studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Sales.resources
+C:\Users\laura\Documents\Old Memory Stick\Level 4\Visual Studio 2017\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+C:\Users\laura\Documents\Old Memory Stick\Level 4\Visual Studio 2017\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+C:\Users\laura\Documents\Old Memory Stick\Level 4\Visual Studio 2017\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+C:\Users\laura\Documents\Old Memory Stick\Level 4\Visual Studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csprojResolveAssemblyReference.cache
+C:\Users\laura\Documents\Old Memory Stick\Level 4\Visual Studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.LoginForm.resources
+C:\Users\laura\Documents\Old Memory Stick\Level 4\Visual Studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Main.resources
+C:\Users\laura\Documents\Old Memory Stick\Level 4\Visual Studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+C:\Users\laura\Documents\Old Memory Stick\Level 4\Visual Studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Sales.resources
+C:\Users\laura\Documents\Old Memory Stick\Level 4\Visual Studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.Cache
+C:\Users\laura\Documents\Old Memory Stick\Level 4\Visual Studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+C:\Users\laura\Documents\Old Memory Stick\Level 4\Visual Studio 2017\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
